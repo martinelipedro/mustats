@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/mustats/static/css/main.f855e6bc.css",
-    "main.js": "/mustats/static/js/main.661a2ce1.js",
+    "main.js": "/mustats/static/js/main.29b2a19e.js",
+    "static/media/chipi.gif": "/mustats/static/media/chipi.52b0b0767e7aa92a2beb.gif",
     "index.html": "/mustats/index.html",
     "main.f855e6bc.css.map": "/mustats/static/css/main.f855e6bc.css.map",
-    "main.661a2ce1.js.map": "/mustats/static/js/main.661a2ce1.js.map"
+    "main.29b2a19e.js.map": "/mustats/static/js/main.29b2a19e.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.661a2ce1.js"
+    "static/js/main.29b2a19e.js"
   ]
 }
