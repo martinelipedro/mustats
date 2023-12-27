@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mustats/static/css/main.f855e6bc.css",
+    "main.js": "/mustats/static/js/main.0801e9d5.js",
+    "static/js/787.65f2c989.chunk.js": "/mustats/static/js/787.65f2c989.chunk.js",
+    "static/media/logo.svg": "/mustats/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mustats/index.html",
+    "main.f855e6bc.css.map": "/mustats/static/css/main.f855e6bc.css.map",
+    "main.0801e9d5.js.map": "/mustats/static/js/main.0801e9d5.js.map",
+    "787.65f2c989.chunk.js.map": "/mustats/static/js/787.65f2c989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0801e9d5.js"
+  ]
+}
